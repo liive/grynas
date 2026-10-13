@@ -1,0 +1,70 @@
+{
+  "restaurant": "GRYN‘as",
+  "checked_on": "2026-10-01",
+  "content_source": "https://www.meniu.lt/vieta/grynas-restoranas",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 1440,
+      "height": 1434,
+      "description": "Lasagne portion on white plate",
+      "source_url": "https://www.meniu.lt/vieta/3365/galerija",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/14/3447/ffe3fb2725452bd46e5ef676c8360aebce454c28.jpeg",
+      "reuse": "Meniu restaurant gallery; photographer unspecified; no reuse license found"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1440,
+      "height": 1080,
+      "description": "Meat cutlet with creamy sauce, mash and vegetables",
+      "source_url": "https://www.meniu.lt/vieta/3365/galerija",
+      "image_url": "https://static.meniu.lt/uploads/restaurant/photo/14/32656/2b62d583c35e6fcbd7bdf7f323c600bbca0ab6a4.jpeg",
+      "reuse": "Meniu restaurant gallery; photographer unspecified; no reuse license found"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 960,
+      "height": 720,
+      "description": "Outdoor terrace tables beneath trees, no people",
+      "source_url": "https://draugiskigyvunams.lt/vietos/grynas-restoranas/",
+      "image_url": "https://draugiskigyvunams.lt/wp-content/uploads/job-manager-uploads/main_image/2020/08/94690984_2940386142706797_7101849657977864192_n.jpg",
+      "reuse": "Pet-friendly venue listing; no reuse license found"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 960,
+      "height": 720,
+      "description": "Outdoor terrace with umbrellas, no people",
+      "source_url": "https://draugiskigyvunams.lt/vietos/grynas-restoranas/",
+      "image_url": "https://draugiskigyvunams.lt/wp-content/uploads/job-manager-uploads/main_image/2020/08/94975035_2940386379373440_1516626022496206848_n.jpg",
+      "reuse": "Pet-friendly venue listing; no reuse license found"
+    }
+  ],
+  "review_note": "4 authentic photos.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Single continuous right-moving row of food photos; one outdoor photo in hero only",
+  "user_photo_edits": [
+    {
+      "file": "assets/dish-crispy-edited.webp",
+      "source": "User supplied image(20261012-205728).png; AI retouched lighting, color and presentation"
+    },
+    {
+      "file": "assets/dish-salmon-edited.webp",
+      "source": "User supplied image(20261012-205807).png; AI retouched lighting, color and presentation"
+    }
+  ],
+  "enhanced_existing_photos": [
+    {
+      "file": "assets/lasagna-enhanced.webp",
+      "original": "photo-01.jpg",
+      "edit": "AI retouched lighting, white balance and food detail"
+    },
+    {
+      "file": "assets/cutlet-enhanced.webp",
+      "original": "photo-02.jpg",
+      "edit": "AI retouched lighting, white balance and food detail"
+    }
+  ]
+}
